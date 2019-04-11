@@ -1,0 +1,30 @@
+{
+  "name": "truckgo",
+  "version": "0.0.1",
+  "description": "A Truck CRM system",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Codokk/TruckGo.git"
+  },
+  "keywords": [
+    "Trucking",
+    "CRM"
+  ],
+  "author": "Cody Krist",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Codokk/TruckGo/issues"
+  },
+  "homepage": "https://github.com/Codokk/TruckGo#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "electron": "^4.1.4",
+    "jquery": "^3.4.0",
+    "popper.js": "^1.15.0"
+  }
+}
